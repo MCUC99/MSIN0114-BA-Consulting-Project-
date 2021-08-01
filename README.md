@@ -1,4 +1,4 @@
-# MSIN0114-BA-Consulting-Project-
+# MSIN0114-BA-Consulting-Project- MSc Business Analytics UCL
 This research project is in collaboration with Online Lubricants
 
 In the context of revenue management, setting appropriate pricing strategies have been a longstanding issue for most business retailers. By leveraging on the power of data analytics, firms across the world are beginning to recognize the value of capitalizing on their vast quantities of data to enable smart decision-making. In addition to the recent development in machine learning techniques and statistical modelling, this has encouraged more retail businesses to explore these domains and make use of its scalability and operational utility.  
